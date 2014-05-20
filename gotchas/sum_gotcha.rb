@@ -1,3 +1,4 @@
+# encoding: utf-8
 class SumGotcha < Gotcha::Base
 
   DEFAULT_MIN = 0

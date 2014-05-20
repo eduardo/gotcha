@@ -1,3 +1,4 @@
+# encoding: utf-8
 class BackwardGotcha < Gotcha::Base
 
   MIN_STRING_LENGTH = 8
